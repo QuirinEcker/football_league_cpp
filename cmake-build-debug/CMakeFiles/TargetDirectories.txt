@@ -1,0 +1,3 @@
+/Users/quirin/Documents/3AHITM/football-league/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/quirin/Documents/3AHITM/football-league/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/quirin/Documents/3AHITM/football-league/cmake-build-debug/CMakeFiles/football_league.dir

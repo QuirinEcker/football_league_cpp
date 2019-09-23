@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/quirin/Documents/3AHITM/football-league/League.cpp
+League.h
+/Users/quirin/Documents/3AHITM/football-league/League.h
+
+/Users/quirin/Documents/3AHITM/football-league/League.h
+algorithm
+-
+vector
+-
+Team.h
+/Users/quirin/Documents/3AHITM/football-league/Team.h
+Match.h
+/Users/quirin/Documents/3AHITM/football-league/Match.h
+
+/Users/quirin/Documents/3AHITM/football-league/Match.h
+string
+-
+
+/Users/quirin/Documents/3AHITM/football-league/Team.h
+string
+-
+Match.h
+/Users/quirin/Documents/3AHITM/football-league/Match.h
+
